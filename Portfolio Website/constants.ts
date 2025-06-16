@@ -9,7 +9,7 @@ export const YOUR_BIO = `Hello! I'm ${YOUR_NAME}, an Android App Developer based
 export const YOUR_EMAIL = "snehil09087@gmail.com"; 
 
 // Path relative to index.html for your profile picture
-export const YOUR_PROFILE_PICTURE_URL = ""; // Ensure this path is correct based on your project structure
+export const YOUR_PROFILE_PICTURE_URL = "src/assets/snehil-profile.jpg.jpg";  // Ensure this path is correct based on your project structure
 
 
 // --- NAVIGATION ---
